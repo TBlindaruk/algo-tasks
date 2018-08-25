@@ -6,3 +6,4 @@
  - [Intersection of Two Arrays II](./array-and-strings/3.intersection-of-two-arrays-II.md)
  - [Valid Palindrome](./array-and-strings/5-valid-palindrome.md)
  - [Valid Palindrome II](./array-and-strings/6-valid-palindrome-II.md)
+ - [Valid Number](./array-and-strings/7-valid-number.md)
