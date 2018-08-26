@@ -11,6 +11,7 @@
 ### 2. Linked List
  - [Reverse Linked List](2.linked-list/1.reverse-linked-list.md)
  - [Add Two Numbers](./2.linked-list/2.add-two-numbers.md)
+ - [Remove Nth Node From End of List](./2.linked-list/3.remove-nth-node-from-end-of-list.md)
  
 
 ### TODO:
