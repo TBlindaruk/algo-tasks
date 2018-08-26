@@ -15,6 +15,9 @@
  - [Intersection of Two Linked Lists](./2.linked-list/4.intersection-of-two-linked-lists.md)
  - [Linked List Cycle](./2.linked-list/6.linked-list-cycle.md)
  
+### 3. Trees and Graphs
+ - [Same Tree](3.trees-and-graphs/1.same-tree.md)
+ 
 
 ### TODO:
 
