@@ -16,8 +16,8 @@
  - [Linked List Cycle](./2.linked-list/6.linked-list-cycle.md)
  
 ### 3. Trees and Graphs
- - [Same Tree](3.trees-and-graphs/1.same-tree.md)
- 
+ - [Same Tree](./3.trees-and-graphs/1.same-tree.md)
+ - [Validate Binary Search Tree](./3.trees-and-graphs/2.validate-binary-search-tree.md)
 
 ### TODO:
 
