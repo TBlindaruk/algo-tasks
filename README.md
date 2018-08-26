@@ -10,6 +10,7 @@
 
 ### 2. Linked List
  - [Reverse Linked List](2.linked-list/1.reverse-linked-list.md)
+ - [Add Two Numbers](./2.linked-list/2.add-two-numbers.md)
  
 
 ### TODO:
