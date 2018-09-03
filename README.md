@@ -18,6 +18,7 @@
 ### 3. Trees and Graphs
  - [Same Tree](./3.trees-and-graphs/1.same-tree.md)
  - [Validate Binary Search Tree](./3.trees-and-graphs/2.validate-binary-search-tree.md)
+ - [Binary Tree Paths](./3.trees-and-graphs/3.binary-tree-paths.md)
  - [Number of Islands](./3.trees-and-graphs/8.number-of-Islands.md)
  - [Maximum Depth of Binary Tree](./3.trees-and-graphs/104.maximum-depth-of-binary-tree.md)
 
