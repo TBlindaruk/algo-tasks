@@ -22,6 +22,9 @@
  - [Diameter of Binary Tree](./3.trees-and-graphs/4.diameter-of-binary-tree.md)
  - [Number of Islands](./3.trees-and-graphs/8.number-of-Islands.md)
  - [Maximum Depth of Binary Tree](./3.trees-and-graphs/104.maximum-depth-of-binary-tree.md)
+ 
+### 4. Backtracking
+ - [Permutations](./4.backtracking/3.permutations.md)
 
 ### TODO:
 
@@ -35,8 +38,9 @@
 | Vectors / ArrayLists | Tree Insert / Find / etc | Big-O Time               |
 | Hash Tables          |                          |                          |
 
+ - [lexicographic order](./4.backtracking/3.permutations.md)
 
-### TODO from Facebbok
+### TODO from Facebook
 
 #### Algorithms to study:
  - Merge Sort
