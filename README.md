@@ -34,3 +34,27 @@
 | Queues               | Quick Sort               | Recursion                |
 | Vectors / ArrayLists | Tree Insert / Find / etc | Big-O Time               |
 | Hash Tables          |                          |                          |
+
+
+### TODO from Facebbok
+
+#### Algorithms to study:
+ - Merge Sort
+ - Quick Sort
+ - Breadth-first search
+ - Depth-first search
+ - Binary Search
+
+#### Data Structures to study:
+ - Arrays/ArrayLists
+ - Hash Tables
+ - Trees
+ - Graphs
+ - Stacks/Queues
+ - Heaps
+ 
+#### Concepts to know:
+ - Big O
+ - Recursion
+ - Memoization/Dynamic Programming
+ 
