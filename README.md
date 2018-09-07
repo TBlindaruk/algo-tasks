@@ -31,6 +31,9 @@
  - [Merge Sorted Array](./5.sorting-and-searching/3.merge-sorted-array.md)
  - [Merge Two Sorted Lists](./5.sorting-and-searching/4.merge-two-sorted-lists.md)
  - [Merge k Sorted Lists](./5.sorting-and-searching/5.merge-k-sorted-lists.md)
+ 
+### 6. Dynamic Programming
+ - [Decode Ways](./6.dynamic-programming/3.decode-ways.md)
 
 ### TODO:
 
@@ -47,8 +50,8 @@
 ### TODO from Facebook
 
 #### Algorithms to study:
- - [Merge Sort](6.algorithms/1.merge-sort.md)
- - [Quick Sort](6.algorithms/2.quicksort.md)
+ - [Merge Sort](7.algorithms/1.merge-sort.md)
+ - [Quick Sort](7.algorithms/2.quicksort.md)
  - Breadth-first search
  - Depth-first search
  - Binary Search
