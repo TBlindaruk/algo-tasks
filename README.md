@@ -25,6 +25,7 @@
  
 ### 4. Backtracking
  - [Permutations](./4.backtracking/3.permutations.md)
+ - [Restore IP Addresses](./4.backtracking/93.restore-IP-addresses.md)
 
 ### TODO:
 
