@@ -42,7 +42,7 @@
 ### TODO from Facebook
 
 #### Algorithms to study:
- - Merge Sort
+ - [Merge Sort](./5.algorithms/1.merge-sort.md)
  - Quick Sort
  - Breadth-first search
  - Depth-first search
