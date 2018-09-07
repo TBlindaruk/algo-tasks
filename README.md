@@ -34,8 +34,8 @@
 | Linked Lists         | Breadth First Search     | Bit Manipulation         |
 | Binary Trees         | Depth First Search       | Singleton Design Pattern |
 | Tries                | Binary Search            | Factory Design Pattern   |
-| Stacks               | Quick Sort               | Memory (Stack vs Heap)   |
-| Queues               | Tree Insert / Find / etc | Recursion                |
+| Stacks               | Tree Insert / Find / etc | Memory (Stack vs Heap)   |
+| Queues               |                          | Recursion                |
 | Vectors / ArrayLists |                          | Big-O Time               |
 | Hash Tables          |                          |                          |
 
@@ -43,7 +43,7 @@
 
 #### Algorithms to study:
  - [Merge Sort](./5.algorithms/1.merge-sort.md)
- - Quick Sort
+ - [Quick Sort](./5.algorithms/2.quicksort.md)
  - Breadth-first search
  - Depth-first search
  - Binary Search
