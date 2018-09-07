@@ -26,6 +26,9 @@
 ### 4. Backtracking
  - [Permutations](./4.backtracking/3.permutations.md)
  - [Restore IP Addresses](./4.backtracking/93.restore-IP-addresses.md)
+ 
+### 5. Sorting and Searching
+ - [Merge Sorted Array](./5.sorting-and-searching/3.merge-sorted-array.md)
 
 ### TODO:
 
@@ -42,8 +45,8 @@
 ### TODO from Facebook
 
 #### Algorithms to study:
- - [Merge Sort](./5.algorithms/1.merge-sort.md)
- - [Quick Sort](./5.algorithms/2.quicksort.md)
+ - [Merge Sort](6.algorithms/1.merge-sort.md)
+ - [Quick Sort](6.algorithms/2.quicksort.md)
  - Breadth-first search
  - Depth-first search
  - Binary Search
