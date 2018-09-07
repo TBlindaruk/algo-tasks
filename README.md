@@ -29,6 +29,7 @@
  
 ### 5. Sorting and Searching
  - [Merge Sorted Array](./5.sorting-and-searching/3.merge-sorted-array.md)
+ - [Merge Two Sorted Lists](./5.sorting-and-searching/4.merge-two-sorted-lists.md)
 
 ### TODO:
 
