@@ -29,15 +29,15 @@
 
 ### TODO:
 
-| Data Structures      | Algorithms               | Concepts                      |
-| :------------------: | :----------------------: | :---------------------------: |
-| Linked Lists         | Breadth First Search                                     | Bit Manipulation         |
-| Binary Trees         | Depth First Search                                       | Singleton Design Pattern |
-| Tries                | Binary Search                                            | Factory Design Pattern   |
-| Stacks               | Merge Sort                                               | Memory (Stack vs Heap)   |
-| Queues               | Quick Sort                                               | Recursion                |
-| Vectors / ArrayLists | Tree Insert / Find / etc                                 | Big-O Time               |
-| Hash Tables          | [lexicographic order](./4.backtracking/3.permutations.md)|                          |
+| Data Structures      | Algorithms               | Concepts                 |
+| :------------------: | :----------------------: | :----------------------: |
+| Linked Lists         | Breadth First Search     | Bit Manipulation         |
+| Binary Trees         | Depth First Search       | Singleton Design Pattern |
+| Tries                | Binary Search            | Factory Design Pattern   |
+| Stacks               | Quick Sort               | Memory (Stack vs Heap)   |
+| Queues               | Tree Insert / Find / etc | Recursion                |
+| Vectors / ArrayLists |                          | Big-O Time               |
+| Hash Tables          |                          |                          |
 
 ### TODO from Facebook
 
@@ -47,6 +47,7 @@
  - Breadth-first search
  - Depth-first search
  - Binary Search
+ - [lexicographic order](./4.backtracking/3.permutations.md)
 
 #### Data Structures to study:
  - Arrays/ArrayLists
